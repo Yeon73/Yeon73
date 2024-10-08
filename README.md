@@ -8,5 +8,5 @@ We may hit it off if you are interested in:
 * :bowling: **Bowling** : **FAVORITE** | **FOR SURE**
 * :world_map: **Travling** : Always involve shopping; while checking out good food places. :joy:
 
-These days, I'm studying Web Development with JAVA and [SpringBoot](https://spring.io/projects/spring-boot). Nice to meet you!
+These days, I'm studying Web Development with Java and [SpringBoot](https://spring.io/projects/spring-boot). Nice to meet you!
 
